@@ -1,3 +1,0 @@
-# MiprimerRepoUTN
-
-algo cualquier cosa
